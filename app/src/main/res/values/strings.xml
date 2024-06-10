@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">IMAD Practicum</string>
+
+    <!-- MainScreen Activity -->
+    <string name="average_temperature_label">Average Temperature:</string>
+
+    <!-- MainScreen Layout -->
+    <string name="next_button_label">Next</string>
+    <string name="exit_button_label">Exit</string>
+
+    <!-- Weather Conditions -->
+    <string name="sunny">Sunny</string>
+    <string name="partly_cloudy">Partly Cloudy</string>
+    <string name="rainy">Rainy</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="thunderstorms">Thunderstorms</string>
+
+    <!-- Days of the Week -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+</resources>
